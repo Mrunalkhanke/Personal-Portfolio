@@ -58,7 +58,7 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Mrunal      `}<br/>
                 <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>I am a dynamic and ambitious 3rd-year Computer Science Engineering student & passionately upskilling in  UI/UX Designing , Full Stack Development and Data Science to drive my love for technology. Aspiring to become a proficient Python developer.</p>
+                  <p>I am a dynamic and ambitious Final Year Computer Science Engineering student & passionately upskilling in  UI/UX Designing , Full Stack Development and Data Science to drive my love for technology. Aspiring to become a proficient Python developer.</p>
                   
               </div>}
             </TrackVisibility>
